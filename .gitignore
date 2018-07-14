@@ -1,0 +1,11 @@
+*.pyc
+/venv
+*.json
+.cache
+.coverage.*
+__pycache__/
+*.py[cod]
+*$py.class
+*.vcs
+*.pytest_cache
+.idea/*
